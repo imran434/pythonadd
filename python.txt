@@ -3,8 +3,7 @@ b=int(input(Enter b value :)
 c=a+b
 print(addition of two number is )
 123
-<<<<<<< HEAD
 amount
-=======
 salry
->>>>>>> e965fb32d4ff584650ce71ea839aed88c6dfd191
+skills
+
