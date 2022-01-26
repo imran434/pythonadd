@@ -7,3 +7,5 @@ amount
 salry
 skills
 innn
+pan1
+
