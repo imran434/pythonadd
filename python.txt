@@ -5,5 +5,8 @@ print(addition of two number is )
 123
 amount
 salry
+<<<<<<< HEAD
 skills
 
+=======
+>>>>>>> e95990cd6c87e28739502fea0eca1024cf29da3c
