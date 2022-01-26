@@ -3,3 +3,4 @@ b=int(input(Enter b value :)
 c=a+b
 print(addition of two number is )
 123
+salry
