@@ -6,4 +6,6 @@ print(addition of two number is )
 amount
 salry
 skills
+innn
 pan1
+
